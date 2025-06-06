@@ -1,0 +1,1 @@
+O objetivo é oferecer uma plataforma bonita, funcional e inteligente para informar os convidados, permitir confirmações de presença (RSVP), exibir fotos e enviar mensagens aos noivos. O projeto também será usado para aprendizado prático em frontend, backend, banco de dados e inteligência artificial.
